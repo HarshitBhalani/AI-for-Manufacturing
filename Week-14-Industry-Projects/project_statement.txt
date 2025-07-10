@@ -1,0 +1,20 @@
+Project Details :
+
+Project:Helmet Compliance Monitoring on Shop Floors
+
+Organisation:General Problem
+
+Category:General problem
+
+Description:Safety rule violations, like not wearing helmets, are hard to track manually. A computer vision system can automate helmet compliance monitoring, enhance workplace safety, and reduce accident severity without needing extra staff.
+
+Group ID:G00021
+
+Group Members:
+
+Patel Dhairya
+dhairya1914@gmail.com
+Bhalani Harshit Ketanbhai
+harshitbhalani187@gmail.com
+Heet Yogeshkumar Raval
+ravalheet2209@gmail.com
